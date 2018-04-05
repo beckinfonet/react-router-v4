@@ -5,6 +5,7 @@ export default class Map extends Component {
     return (
       <div>
         <p>Hello, this is a Map page</p>
+        <h3>map Component must have pins</h3>
       </div>
     );
   }
